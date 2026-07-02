@@ -83,8 +83,6 @@ Create a `.env.development.local` file in the root directory.
 
 ## Future Improvements
 
-* Email reminders before renewal
-* Subscription analytics dashboard
 * Payment provider integrations
 * Search and filtering
 * Pagination
